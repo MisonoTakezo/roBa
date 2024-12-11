@@ -13,7 +13,7 @@ roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたワイ
 
 ## Build Guide
 
-ビルドガイドは[こちら](https://github.com/kumamuk-git/roBa/blob/main/doc/buildguide.md)
+ビルドガイドは[こちら](https://github.com/MisonoTakezo/roBa/blob/main/doc/buildguide.md)
 
 ## Firmware
 
